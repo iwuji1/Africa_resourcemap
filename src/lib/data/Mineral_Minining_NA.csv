@@ -1,0 +1,295 @@
+﻿Country,Name,Value
+Algeria,Aluminium,0
+Algeria,Arsenic,0
+Algeria,Baryte,33000
+Algeria,Bauxite,0
+Algeria,Bentonite,36000
+Algeria,Beryllium,0
+Algeria,Chromium,0
+Algeria,Cobalt,0
+Algeria,Coking Coal,0
+Algeria,Copper,0
+Algeria,Diam. (Gem),0
+Algeria,Diam. (Ind),0
+Algeria,Diatomite,3000
+Algeria,Feldspar,170000
+Algeria,Fluorspar,0
+Algeria,Gold,71
+Algeria,Graphite,0
+Algeria,Gypsum,2500000
+Algeria,Iron,416000
+Algeria,Kaolin,120000
+Algeria,Lead,0
+Algeria,Lithium,0
+Algeria,Magnesite,0
+Algeria,Manganese,0
+Algeria,Mercury,0
+Algeria,Nat. Gas,105037
+Algeria,Nickel,0
+Algeria,Niobium,0
+Algeria,Palladium,0
+Algeria,Perlite,0
+Algeria,Petroleum,58200000
+Algeria,Phosphates,612000
+Algeria,Platinum,0
+Algeria,Rare Earths,0
+Algeria,Rhodium,0
+Algeria,Salt,100000
+Algeria,Silver,12
+Algeria,Steam Coal,0
+Algeria,Sulfur,6000
+Algeria,Talc,0
+Algeria,Tantalum,0
+Algeria,Tin,0
+Algeria,Titanium,0
+Algeria,Tungsten,0
+Algeria,Uranium,0
+Algeria,Vanadium,0
+Algeria,Vermiculite,0
+Algeria,Zinc,500
+Algeria,Zircon,0
+Egypt,Aluminium,270000
+Egypt,Arsenic,0
+Egypt,Baryte,4000
+Egypt,Bauxite,0
+Egypt,Bentonite,7000
+Egypt,Beryllium,0
+Egypt,Chromium,0
+Egypt,Cobalt,0
+Egypt,Coking Coal,0
+Egypt,Copper,0
+Egypt,Diam. (Gem),0
+Egypt,Diam. (Ind),0
+Egypt,Diatomite,0
+Egypt,Feldspar,200000
+Egypt,Fluorspar,1000
+Egypt,Gold,12919
+Egypt,Graphite,0
+Egypt,Gypsum,800000
+Egypt,Iron,270000
+Egypt,Kaolin,230000
+Egypt,Lead,0
+Egypt,Lithium,0
+Egypt,Magnesite,0
+Egypt,Manganese,8000
+Egypt,Mercury,0
+Egypt,Nat. Gas,67799
+Egypt,Nickel,0
+Egypt,Niobium,0
+Egypt,Palladium,0
+Egypt,Perlite,0
+Egypt,Petroleum,29601360
+Egypt,Phosphates,986000
+Egypt,Platinum,0
+Egypt,Rare Earths,0
+Egypt,Rhodium,0
+Egypt,Salt,500000
+Egypt,Silver,0
+Egypt,Steam Coal,0
+Egypt,Sulfur,80000
+Egypt,Talc,15000
+Egypt,Tantalum,0
+Egypt,Tin,0
+Egypt,Titanium,0
+Egypt,Tungsten,0
+Egypt,Uranium,0
+Egypt,Vanadium,0
+Egypt,Vermiculite,0
+Egypt,Zinc,0
+Egypt,Zircon,0
+Libya,Aluminium,0
+Libya,Arsenic,0
+Libya,Baryte,0
+Libya,Bauxite,0
+Libya,Bentonite,0
+Libya,Beryllium,0
+Libya,Chromium,0
+Libya,Cobalt,0
+Libya,Coking Coal,0
+Libya,Copper,0
+Libya,Diam. (Gem),0
+Libya,Diam. (Ind),0
+Libya,Diatomite,0
+Libya,Feldspar,0
+Libya,Fluorspar,0
+Libya,Gold,0
+Libya,Graphite,0
+Libya,Gypsum,200000
+Libya,Iron,0
+Libya,Kaolin,0
+Libya,Lead,0
+Libya,Lithium,0
+Libya,Magnesite,0
+Libya,Manganese,0
+Libya,Mercury,0
+Libya,Nat. Gas,15236
+Libya,Nickel,0
+Libya,Niobium,0
+Libya,Palladium,0
+Libya,Perlite,0
+Libya,Petroleum,60113100
+Libya,Phosphates,0
+Libya,Platinum,0
+Libya,Rare Earths,0
+Libya,Rhodium,0
+Libya,Salt,40000
+Libya,Silver,0
+Libya,Steam Coal,0
+Libya,Sulfur,130000
+Libya,Talc,0
+Libya,Tantalum,0
+Libya,Tin,0
+Libya,Titanium,0
+Libya,Tungsten,0
+Libya,Uranium,0
+Libya,Vanadium,0
+Libya,Vermiculite,0
+Libya,Zinc,0
+Libya,Zircon,0
+Morocco,Aluminium,0
+Morocco,Arsenic,6883
+Morocco,Baryte,840486
+Morocco,Bauxite,0
+Morocco,Bentonite,134340
+Morocco,Beryllium,0
+Morocco,Chromium,0
+Morocco,Cobalt,1796
+Morocco,Coking Coal,0
+Morocco,Copper,50340
+Morocco,Diam. (Gem),0
+Morocco,Diam. (Ind),0
+Morocco,Diatomite,0
+Morocco,Feldspar,427387
+Morocco,Fluorspar,189012
+Morocco,Gold,147
+Morocco,Graphite,0
+Morocco,Gypsum,0
+Morocco,Iron,8870
+Morocco,Kaolin,0
+Morocco,Lead,31340
+Morocco,Lithium,0
+Morocco,Magnesite,0
+Morocco,Manganese,41250
+Morocco,Mercury,2
+Morocco,Nat. Gas,110
+Morocco,Nickel,147
+Morocco,Niobium,0
+Morocco,Palladium,0
+Morocco,Perlite,0
+Morocco,Petroleum,3246
+Morocco,Phosphates,12176200
+Morocco,Platinum,0
+Morocco,Rare Earths,0
+Morocco,Rhodium,0
+Morocco,Salt,295741
+Morocco,Silver,194360
+Morocco,Steam Coal,0
+Morocco,Sulfur,0
+Morocco,Talc,0
+Morocco,Tantalum,0
+Morocco,Tin,0
+Morocco,Titanium,0
+Morocco,Tungsten,0
+Morocco,Uranium,0
+Morocco,Vanadium,0
+Morocco,Vermiculite,0
+Morocco,Zinc,40230
+Morocco,Zircon,0
+South Sudan,Aluminium,0
+South Sudan,Arsenic,0
+South Sudan,Baryte,0
+South Sudan,Bauxite,0
+South Sudan,Bentonite,0
+South Sudan,Beryllium,0
+South Sudan,Chromium,0
+South Sudan,Cobalt,0
+South Sudan,Coking Coal,0
+South Sudan,Copper,0
+South Sudan,Diam. (Gem),0
+South Sudan,Diam. (Ind),0
+South Sudan,Diatomite,0
+South Sudan,Feldspar,0
+South Sudan,Fluorspar,0
+South Sudan,Gold,0
+South Sudan,Graphite,0
+South Sudan,Gypsum,0
+South Sudan,Iron,0
+South Sudan,Kaolin,0
+South Sudan,Lead,0
+South Sudan,Lithium,0
+South Sudan,Magnesite,0
+South Sudan,Manganese,0
+South Sudan,Mercury,0
+South Sudan,Nat. Gas,0
+South Sudan,Nickel,0
+South Sudan,Niobium,0
+South Sudan,Palladium,0
+South Sudan,Perlite,0
+South Sudan,Petroleum,7515700
+South Sudan,Phosphates,0
+South Sudan,Platinum,0
+South Sudan,Rare Earths,0
+South Sudan,Rhodium,0
+South Sudan,Salt,0
+South Sudan,Silver,0
+South Sudan,Steam Coal,0
+South Sudan,Sulfur,0
+South Sudan,Talc,0
+South Sudan,Tantalum,0
+South Sudan,Tin,0
+South Sudan,Titanium,0
+South Sudan,Tungsten,0
+South Sudan,Uranium,0
+South Sudan,Vanadium,0
+South Sudan,Vermiculite,0
+South Sudan,Zinc,0
+South Sudan,Zircon,0
+Tunisia,Aluminium,0
+Tunisia,Arsenic,0
+Tunisia,Baryte,11100
+Tunisia,Bauxite,0
+Tunisia,Bentonite,0
+Tunisia,Beryllium,0
+Tunisia,Chromium,0
+Tunisia,Cobalt,0
+Tunisia,Coking Coal,0
+Tunisia,Copper,0
+Tunisia,Diam. (Gem),0
+Tunisia,Diam. (Ind),0
+Tunisia,Diatomite,0
+Tunisia,Feldspar,0
+Tunisia,Fluorspar,0
+Tunisia,Gold,0
+Tunisia,Graphite,0
+Tunisia,Gypsum,908130
+Tunisia,Iron,143900
+Tunisia,Kaolin,0
+Tunisia,Lead,0
+Tunisia,Lithium,0
+Tunisia,Magnesite,0
+Tunisia,Manganese,0
+Tunisia,Mercury,0
+Tunisia,Nat. Gas,2240
+Tunisia,Nickel,0
+Tunisia,Niobium,0
+Tunisia,Palladium,0
+Tunisia,Perlite,0
+Tunisia,Petroleum,2129640
+Tunisia,Phosphates,1080700
+Tunisia,Platinum,0
+Tunisia,Rare Earths,0
+Tunisia,Rhodium,0
+Tunisia,Salt,1889614
+Tunisia,Silver,0
+Tunisia,Steam Coal,0
+Tunisia,Sulfur,0
+Tunisia,Talc,0
+Tunisia,Tantalum,0
+Tunisia,Tin,0
+Tunisia,Titanium,0
+Tunisia,Tungsten,0
+Tunisia,Uranium,0
+Tunisia,Vanadium,0
+Tunisia,Vermiculite,0
+Tunisia,Zinc,0
+Tunisia,Zircon,0

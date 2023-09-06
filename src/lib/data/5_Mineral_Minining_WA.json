@@ -1,0 +1,2774 @@
+{"Name": "Central Africa", "children":[
+   {"Name":"Benin", "children": [
+      {
+         "Name": "Aluminium",
+         "Value": 0
+      },
+      {
+         "Name": "Arsenic",
+         "Value": 0
+      },
+      {
+         "Name": "Baryte",
+         "Value": 0
+      },
+      {
+         "Name": "Bauxite",
+         "Value": 0
+      },
+      {
+         "Name": "Bentonite",
+         "Value": 0
+      },
+      {
+         "Name": "Beryllium",
+         "Value": 0
+      },
+      {
+         "Name": "Chromium",
+         "Value": 0
+      },
+      {
+         "Name": "Cobalt",
+         "Value": 0
+      },
+      {
+         "Name": "Coking Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Copper",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Gem)",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Ind)",
+         "Value": 0
+      },
+      {
+         "Name": "Diatomite",
+         "Value": 0
+      },
+      {
+         "Name": "Feldspar",
+         "Value": 0
+      },
+      {
+         "Name": "Fluorspar",
+         "Value": 0
+      },
+      {
+         "Name": "Gold",
+         "Value": 5
+      },
+      {
+         "Name": "Graphite",
+         "Value": 0
+      },
+      {
+         "Name": "Gypsum",
+         "Value": 0
+      },
+      {
+         "Name": "Iron",
+         "Value": 0
+      },
+      {
+         "Name": "Kaolin",
+         "Value": 0
+      },
+      {
+         "Name": "Lead",
+         "Value": 0
+      },
+      {
+         "Name": "Lithium",
+         "Value": 0
+      },
+      {
+         "Name": "Magnesite",
+         "Value": 0
+      },
+      {
+         "Name": "Manganese",
+         "Value": 0
+      },
+      {
+         "Name": "Mercury",
+         "Value": 0
+      },
+      {
+         "Name": "Nat. Gas",
+         "Value": 0
+      },
+      {
+         "Name": "Nickel",
+         "Value": 0
+      },
+      {
+         "Name": "Niobium",
+         "Value": 0
+      },
+      {
+         "Name": "Palladium",
+         "Value": 0
+      },
+      {
+         "Name": "Perlite",
+         "Value": 0
+      },
+      {
+         "Name": "Petroleum",
+         "Value": 0
+      },
+      {
+         "Name": "Phosphates",
+         "Value": 0
+      },
+      {
+         "Name": "Platinum",
+         "Value": 0
+      },
+      {
+         "Name": "Rare Earths",
+         "Value": 0
+      },
+      {
+         "Name": "Rhodium",
+         "Value": 0
+      },
+      {
+         "Name": "Salt",
+         "Value": 500
+      },
+      {
+         "Name": "Silver",
+         "Value": 0
+      },
+      {
+         "Name": "Steam Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Sulfur",
+         "Value": 0
+      },
+      {
+         "Name": "Talc",
+         "Value": 0
+      },
+      {
+         "Name": "Tantalum",
+         "Value": 0
+      },
+      {
+         "Name": "Tin",
+         "Value": 0
+      },
+      {
+         "Name": "Titanium",
+         "Value": 0
+      },
+      {
+         "Name": "Tungsten",
+         "Value": 0
+      },
+      {
+         "Name": "Uranium",
+         "Value": 0
+      },
+      {
+         "Name": "Vanadium",
+         "Value": 0
+      },
+      {
+         "Name": "Vermiculite",
+         "Value": 0
+      },
+      {
+         "Name": "Zinc",
+         "Value": 0
+      },
+      {
+         "Name": "Zircon",
+         "Value": 0
+      }
+   ]},
+   {"Name":"Burkina Faso", "children": [
+      {
+         "Name": "Aluminium",
+         "Value": 0
+      },
+      {
+         "Name": "Arsenic",
+         "Value": 0
+      },
+      {
+         "Name": "Baryte",
+         "Value": 0
+      },
+      {
+         "Name": "Bauxite",
+         "Value": 0
+      },
+      {
+         "Name": "Bentonite",
+         "Value": 0
+      },
+      {
+         "Name": "Beryllium",
+         "Value": 0
+      },
+      {
+         "Name": "Chromium",
+         "Value": 0
+      },
+      {
+         "Name": "Cobalt",
+         "Value": 0
+      },
+      {
+         "Name": "Coking Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Copper",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Gem)",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Ind)",
+         "Value": 0
+      },
+      {
+         "Name": "Diatomite",
+         "Value": 0
+      },
+      {
+         "Name": "Feldspar",
+         "Value": 0
+      },
+      {
+         "Name": "Fluorspar",
+         "Value": 0
+      },
+      {
+         "Name": "Gold",
+         "Value": 66858
+      },
+      {
+         "Name": "Graphite",
+         "Value": 0
+      },
+      {
+         "Name": "Gypsum",
+         "Value": 0
+      },
+      {
+         "Name": "Iron",
+         "Value": 0
+      },
+      {
+         "Name": "Kaolin",
+         "Value": 0
+      },
+      {
+         "Name": "Lead",
+         "Value": 0
+      },
+      {
+         "Name": "Lithium",
+         "Value": 0
+      },
+      {
+         "Name": "Magnesite",
+         "Value": 0
+      },
+      {
+         "Name": "Manganese",
+         "Value": 0
+      },
+      {
+         "Name": "Mercury",
+         "Value": 0
+      },
+      {
+         "Name": "Nat. Gas",
+         "Value": 0
+      },
+      {
+         "Name": "Nickel",
+         "Value": 0
+      },
+      {
+         "Name": "Niobium",
+         "Value": 0
+      },
+      {
+         "Name": "Palladium",
+         "Value": 0
+      },
+      {
+         "Name": "Perlite",
+         "Value": 0
+      },
+      {
+         "Name": "Petroleum",
+         "Value": 0
+      },
+      {
+         "Name": "Phosphates",
+         "Value": 0
+      },
+      {
+         "Name": "Platinum",
+         "Value": 0
+      },
+      {
+         "Name": "Rare Earths",
+         "Value": 0
+      },
+      {
+         "Name": "Rhodium",
+         "Value": 0
+      },
+      {
+         "Name": "Salt",
+         "Value": 0
+      },
+      {
+         "Name": "Silver",
+         "Value": 8897
+      },
+      {
+         "Name": "Steam Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Sulfur",
+         "Value": 0
+      },
+      {
+         "Name": "Talc",
+         "Value": 0
+      },
+      {
+         "Name": "Tantalum",
+         "Value": 0
+      },
+      {
+         "Name": "Tin",
+         "Value": 0
+      },
+      {
+         "Name": "Titanium",
+         "Value": 0
+      },
+      {
+         "Name": "Tungsten",
+         "Value": 0
+      },
+      {
+         "Name": "Uranium",
+         "Value": 0
+      },
+      {
+         "Name": "Vanadium",
+         "Value": 0
+      },
+      {
+         "Name": "Vermiculite",
+         "Value": 0
+      },
+      {
+         "Name": "Zinc",
+         "Value": 84170
+      },
+      {
+         "Name": "Zircon",
+         "Value": 0
+      }
+   ]},
+   {"Name":"Cape Verde", "children": [
+      {
+         "Name": "Aluminium",
+         "Value": 0
+      },
+      {
+         "Name": "Arsenic",
+         "Value": 0
+      },
+      {
+         "Name": "Baryte",
+         "Value": 0
+      },
+      {
+         "Name": "Bauxite",
+         "Value": 0
+      },
+      {
+         "Name": "Bentonite",
+         "Value": 0
+      },
+      {
+         "Name": "Beryllium",
+         "Value": 0
+      },
+      {
+         "Name": "Chromium",
+         "Value": 0
+      },
+      {
+         "Name": "Cobalt",
+         "Value": 0
+      },
+      {
+         "Name": "Coking Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Copper",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Gem)",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Ind)",
+         "Value": 0
+      },
+      {
+         "Name": "Diatomite",
+         "Value": 0
+      },
+      {
+         "Name": "Feldspar",
+         "Value": 0
+      },
+      {
+         "Name": "Fluorspar",
+         "Value": 0
+      },
+      {
+         "Name": "Gold",
+         "Value": 0
+      },
+      {
+         "Name": "Graphite",
+         "Value": 0
+      },
+      {
+         "Name": "Gypsum",
+         "Value": 0
+      },
+      {
+         "Name": "Iron",
+         "Value": 0
+      },
+      {
+         "Name": "Kaolin",
+         "Value": 0
+      },
+      {
+         "Name": "Lead",
+         "Value": 0
+      },
+      {
+         "Name": "Lithium",
+         "Value": 0
+      },
+      {
+         "Name": "Magnesite",
+         "Value": 0
+      },
+      {
+         "Name": "Manganese",
+         "Value": 0
+      },
+      {
+         "Name": "Mercury",
+         "Value": 0
+      },
+      {
+         "Name": "Nat. Gas",
+         "Value": 0
+      },
+      {
+         "Name": "Nickel",
+         "Value": 0
+      },
+      {
+         "Name": "Niobium",
+         "Value": 0
+      },
+      {
+         "Name": "Palladium",
+         "Value": 0
+      },
+      {
+         "Name": "Perlite",
+         "Value": 0
+      },
+      {
+         "Name": "Petroleum",
+         "Value": 0
+      },
+      {
+         "Name": "Phosphates",
+         "Value": 0
+      },
+      {
+         "Name": "Platinum",
+         "Value": 0
+      },
+      {
+         "Name": "Rare Earths",
+         "Value": 0
+      },
+      {
+         "Name": "Rhodium",
+         "Value": 0
+      },
+      {
+         "Name": "Salt",
+         "Value": 2621
+      },
+      {
+         "Name": "Silver",
+         "Value": 0
+      },
+      {
+         "Name": "Steam Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Sulfur",
+         "Value": 0
+      },
+      {
+         "Name": "Talc",
+         "Value": 0
+      },
+      {
+         "Name": "Tantalum",
+         "Value": 0
+      },
+      {
+         "Name": "Tin",
+         "Value": 0
+      },
+      {
+         "Name": "Titanium",
+         "Value": 0
+      },
+      {
+         "Name": "Tungsten",
+         "Value": 0
+      },
+      {
+         "Name": "Uranium",
+         "Value": 0
+      },
+      {
+         "Name": "Vanadium",
+         "Value": 0
+      },
+      {
+         "Name": "Vermiculite",
+         "Value": 0
+      },
+      {
+         "Name": "Zinc",
+         "Value": 0
+      },
+      {
+         "Name": "Zircon",
+         "Value": 0
+      }
+   ]},
+   {"Name":"Cote D'Ivoire", "children": [
+      {
+         "Name": "Aluminium",
+         "Value": 0
+      },
+      {
+         "Name": "Arsenic",
+         "Value": 0
+      },
+      {
+         "Name": "Baryte",
+         "Value": 0
+      },
+      {
+         "Name": "Bauxite",
+         "Value": 700000
+      },
+      {
+         "Name": "Bentonite",
+         "Value": 0
+      },
+      {
+         "Name": "Beryllium",
+         "Value": 0
+      },
+      {
+         "Name": "Chromium",
+         "Value": 0
+      },
+      {
+         "Name": "Cobalt",
+         "Value": 0
+      },
+      {
+         "Name": "Coking Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Copper",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Gem)",
+         "Value": 4121
+      },
+      {
+         "Name": "Diam. (Ind)",
+         "Value": 0
+      },
+      {
+         "Name": "Diatomite",
+         "Value": 0
+      },
+      {
+         "Name": "Feldspar",
+         "Value": 0
+      },
+      {
+         "Name": "Fluorspar",
+         "Value": 0
+      },
+      {
+         "Name": "Gold",
+         "Value": 41855
+      },
+      {
+         "Name": "Graphite",
+         "Value": 0
+      },
+      {
+         "Name": "Gypsum",
+         "Value": 0
+      },
+      {
+         "Name": "Iron",
+         "Value": 0
+      },
+      {
+         "Name": "Kaolin",
+         "Value": 0
+      },
+      {
+         "Name": "Lead",
+         "Value": 0
+      },
+      {
+         "Name": "Lithium",
+         "Value": 0
+      },
+      {
+         "Name": "Magnesite",
+         "Value": 0
+      },
+      {
+         "Name": "Manganese",
+         "Value": 580000
+      },
+      {
+         "Name": "Mercury",
+         "Value": 0
+      },
+      {
+         "Name": "Nat. Gas",
+         "Value": 2373
+      },
+      {
+         "Name": "Nickel",
+         "Value": 22500
+      },
+      {
+         "Name": "Niobium",
+         "Value": 0
+      },
+      {
+         "Name": "Palladium",
+         "Value": 0
+      },
+      {
+         "Name": "Perlite",
+         "Value": 0
+      },
+      {
+         "Name": "Petroleum",
+         "Value": 1196700
+      },
+      {
+         "Name": "Phosphates",
+         "Value": 0
+      },
+      {
+         "Name": "Platinum",
+         "Value": 0
+      },
+      {
+         "Name": "Rare Earths",
+         "Value": 0
+      },
+      {
+         "Name": "Rhodium",
+         "Value": 0
+      },
+      {
+         "Name": "Salt",
+         "Value": 0
+      },
+      {
+         "Name": "Silver",
+         "Value": 1000
+      },
+      {
+         "Name": "Steam Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Sulfur",
+         "Value": 0
+      },
+      {
+         "Name": "Talc",
+         "Value": 0
+      },
+      {
+         "Name": "Tantalum",
+         "Value": 0
+      },
+      {
+         "Name": "Tin",
+         "Value": 0
+      },
+      {
+         "Name": "Titanium",
+         "Value": 0
+      },
+      {
+         "Name": "Tungsten",
+         "Value": 0
+      },
+      {
+         "Name": "Uranium",
+         "Value": 0
+      },
+      {
+         "Name": "Vanadium",
+         "Value": 0
+      },
+      {
+         "Name": "Vermiculite",
+         "Value": 0
+      },
+      {
+         "Name": "Zinc",
+         "Value": 0
+      },
+      {
+         "Name": "Zircon",
+         "Value": 0
+      }
+   ]},
+   {"Name":"Ghana", "children": [
+      {
+         "Name": "Aluminium",
+         "Value": 39239
+      },
+      {
+         "Name": "Arsenic",
+         "Value": 0
+      },
+      {
+         "Name": "Baryte",
+         "Value": 0
+      },
+      {
+         "Name": "Bauxite",
+         "Value": 839465
+      },
+      {
+         "Name": "Bentonite",
+         "Value": 0
+      },
+      {
+         "Name": "Beryllium",
+         "Value": 0
+      },
+      {
+         "Name": "Chromium",
+         "Value": 0
+      },
+      {
+         "Name": "Cobalt",
+         "Value": 0
+      },
+      {
+         "Name": "Coking Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Copper",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Gem)",
+         "Value": 43340
+      },
+      {
+         "Name": "Diam. (Ind)",
+         "Value": 10835
+      },
+      {
+         "Name": "Diatomite",
+         "Value": 0
+      },
+      {
+         "Name": "Feldspar",
+         "Value": 0
+      },
+      {
+         "Name": "Fluorspar",
+         "Value": 0
+      },
+      {
+         "Name": "Gold",
+         "Value": 87676
+      },
+      {
+         "Name": "Graphite",
+         "Value": 0
+      },
+      {
+         "Name": "Gypsum",
+         "Value": 0
+      },
+      {
+         "Name": "Iron",
+         "Value": 0
+      },
+      {
+         "Name": "Kaolin",
+         "Value": 0
+      },
+      {
+         "Name": "Lead",
+         "Value": 0
+      },
+      {
+         "Name": "Lithium",
+         "Value": 0
+      },
+      {
+         "Name": "Magnesite",
+         "Value": 0
+      },
+      {
+         "Name": "Manganese",
+         "Value": 934200
+      },
+      {
+         "Name": "Mercury",
+         "Value": 0
+      },
+      {
+         "Name": "Nat. Gas",
+         "Value": 3020
+      },
+      {
+         "Name": "Nickel",
+         "Value": 0
+      },
+      {
+         "Name": "Niobium",
+         "Value": 0
+      },
+      {
+         "Name": "Palladium",
+         "Value": 0
+      },
+      {
+         "Name": "Perlite",
+         "Value": 0
+      },
+      {
+         "Name": "Petroleum",
+         "Value": 7864300
+      },
+      {
+         "Name": "Phosphates",
+         "Value": 0
+      },
+      {
+         "Name": "Platinum",
+         "Value": 0
+      },
+      {
+         "Name": "Rare Earths",
+         "Value": 0
+      },
+      {
+         "Name": "Rhodium",
+         "Value": 0
+      },
+      {
+         "Name": "Salt",
+         "Value": 300000
+      },
+      {
+         "Name": "Silver",
+         "Value": 1000
+      },
+      {
+         "Name": "Steam Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Sulfur",
+         "Value": 0
+      },
+      {
+         "Name": "Talc",
+         "Value": 0
+      },
+      {
+         "Name": "Tantalum",
+         "Value": 0
+      },
+      {
+         "Name": "Tin",
+         "Value": 0
+      },
+      {
+         "Name": "Titanium",
+         "Value": 0
+      },
+      {
+         "Name": "Tungsten",
+         "Value": 0
+      },
+      {
+         "Name": "Uranium",
+         "Value": 0
+      },
+      {
+         "Name": "Vanadium",
+         "Value": 0
+      },
+      {
+         "Name": "Vermiculite",
+         "Value": 0
+      },
+      {
+         "Name": "Zinc",
+         "Value": 0
+      },
+      {
+         "Name": "Zircon",
+         "Value": 0
+      }
+   ]},
+   {"Name":"Liberia", "children": [
+      {
+         "Name": "Aluminium",
+         "Value": 0
+      },
+      {
+         "Name": "Arsenic",
+         "Value": 0
+      },
+      {
+         "Name": "Baryte",
+         "Value": 0
+      },
+      {
+         "Name": "Bauxite",
+         "Value": 0
+      },
+      {
+         "Name": "Bentonite",
+         "Value": 0
+      },
+      {
+         "Name": "Beryllium",
+         "Value": 0
+      },
+      {
+         "Name": "Chromium",
+         "Value": 0
+      },
+      {
+         "Name": "Cobalt",
+         "Value": 0
+      },
+      {
+         "Name": "Coking Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Copper",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Gem)",
+         "Value": 37820
+      },
+      {
+         "Name": "Diam. (Ind)",
+         "Value": 25210
+      },
+      {
+         "Name": "Diatomite",
+         "Value": 0
+      },
+      {
+         "Name": "Feldspar",
+         "Value": 0
+      },
+      {
+         "Name": "Fluorspar",
+         "Value": 0
+      },
+      {
+         "Name": "Gold",
+         "Value": 7860
+      },
+      {
+         "Name": "Graphite",
+         "Value": 0
+      },
+      {
+         "Name": "Gypsum",
+         "Value": 0
+      },
+      {
+         "Name": "Iron",
+         "Value": 3000000
+      },
+      {
+         "Name": "Kaolin",
+         "Value": 0
+      },
+      {
+         "Name": "Lead",
+         "Value": 0
+      },
+      {
+         "Name": "Lithium",
+         "Value": 0
+      },
+      {
+         "Name": "Magnesite",
+         "Value": 0
+      },
+      {
+         "Name": "Manganese",
+         "Value": 0
+      },
+      {
+         "Name": "Mercury",
+         "Value": 0
+      },
+      {
+         "Name": "Nat. Gas",
+         "Value": 0
+      },
+      {
+         "Name": "Nickel",
+         "Value": 0
+      },
+      {
+         "Name": "Niobium",
+         "Value": 0
+      },
+      {
+         "Name": "Palladium",
+         "Value": 0
+      },
+      {
+         "Name": "Perlite",
+         "Value": 0
+      },
+      {
+         "Name": "Petroleum",
+         "Value": 0
+      },
+      {
+         "Name": "Phosphates",
+         "Value": 0
+      },
+      {
+         "Name": "Platinum",
+         "Value": 0
+      },
+      {
+         "Name": "Rare Earths",
+         "Value": 0
+      },
+      {
+         "Name": "Rhodium",
+         "Value": 0
+      },
+      {
+         "Name": "Salt",
+         "Value": 0
+      },
+      {
+         "Name": "Silver",
+         "Value": 0
+      },
+      {
+         "Name": "Steam Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Sulfur",
+         "Value": 0
+      },
+      {
+         "Name": "Talc",
+         "Value": 0
+      },
+      {
+         "Name": "Tantalum",
+         "Value": 0
+      },
+      {
+         "Name": "Tin",
+         "Value": 0
+      },
+      {
+         "Name": "Titanium",
+         "Value": 0
+      },
+      {
+         "Name": "Tungsten",
+         "Value": 0
+      },
+      {
+         "Name": "Uranium",
+         "Value": 0
+      },
+      {
+         "Name": "Vanadium",
+         "Value": 0
+      },
+      {
+         "Name": "Vermiculite",
+         "Value": 0
+      },
+      {
+         "Name": "Zinc",
+         "Value": 0
+      },
+      {
+         "Name": "Zircon",
+         "Value": 0
+      }
+   ]},
+   {"Name":"Mali", "children": [
+      {
+         "Name": "Aluminium",
+         "Value": 0
+      },
+      {
+         "Name": "Arsenic",
+         "Value": 0
+      },
+      {
+         "Name": "Baryte",
+         "Value": 0
+      },
+      {
+         "Name": "Bauxite",
+         "Value": 0
+      },
+      {
+         "Name": "Bentonite",
+         "Value": 0
+      },
+      {
+         "Name": "Beryllium",
+         "Value": 0
+      },
+      {
+         "Name": "Chromium",
+         "Value": 0
+      },
+      {
+         "Name": "Cobalt",
+         "Value": 0
+      },
+      {
+         "Name": "Coking Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Copper",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Gem)",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Ind)",
+         "Value": 0
+      },
+      {
+         "Name": "Diatomite",
+         "Value": 0
+      },
+      {
+         "Name": "Feldspar",
+         "Value": 0
+      },
+      {
+         "Name": "Fluorspar",
+         "Value": 0
+      },
+      {
+         "Name": "Gold",
+         "Value": 69400
+      },
+      {
+         "Name": "Graphite",
+         "Value": 0
+      },
+      {
+         "Name": "Gypsum",
+         "Value": 0
+      },
+      {
+         "Name": "Iron",
+         "Value": 0
+      },
+      {
+         "Name": "Kaolin",
+         "Value": 0
+      },
+      {
+         "Name": "Lead",
+         "Value": 0
+      },
+      {
+         "Name": "Lithium",
+         "Value": 0
+      },
+      {
+         "Name": "Magnesite",
+         "Value": 0
+      },
+      {
+         "Name": "Manganese",
+         "Value": 0
+      },
+      {
+         "Name": "Mercury",
+         "Value": 0
+      },
+      {
+         "Name": "Nat. Gas",
+         "Value": 0
+      },
+      {
+         "Name": "Nickel",
+         "Value": 0
+      },
+      {
+         "Name": "Niobium",
+         "Value": 0
+      },
+      {
+         "Name": "Palladium",
+         "Value": 0
+      },
+      {
+         "Name": "Perlite",
+         "Value": 0
+      },
+      {
+         "Name": "Petroleum",
+         "Value": 0
+      },
+      {
+         "Name": "Phosphates",
+         "Value": 0
+      },
+      {
+         "Name": "Platinum",
+         "Value": 0
+      },
+      {
+         "Name": "Rare Earths",
+         "Value": 0
+      },
+      {
+         "Name": "Rhodium",
+         "Value": 0
+      },
+      {
+         "Name": "Salt",
+         "Value": 0
+      },
+      {
+         "Name": "Silver",
+         "Value": 3000
+      },
+      {
+         "Name": "Steam Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Sulfur",
+         "Value": 0
+      },
+      {
+         "Name": "Talc",
+         "Value": 0
+      },
+      {
+         "Name": "Tantalum",
+         "Value": 0
+      },
+      {
+         "Name": "Tin",
+         "Value": 0
+      },
+      {
+         "Name": "Titanium",
+         "Value": 0
+      },
+      {
+         "Name": "Tungsten",
+         "Value": 0
+      },
+      {
+         "Name": "Uranium",
+         "Value": 0
+      },
+      {
+         "Name": "Vanadium",
+         "Value": 0
+      },
+      {
+         "Name": "Vermiculite",
+         "Value": 0
+      },
+      {
+         "Name": "Zinc",
+         "Value": 0
+      },
+      {
+         "Name": "Zircon",
+         "Value": 0
+      }
+   ]},
+   {"Name":"Mauritania", "children": [
+      {
+         "Name": "Aluminium",
+         "Value": 0
+      },
+      {
+         "Name": "Arsenic",
+         "Value": 0
+      },
+      {
+         "Name": "Baryte",
+         "Value": 0
+      },
+      {
+         "Name": "Bauxite",
+         "Value": 0
+      },
+      {
+         "Name": "Bentonite",
+         "Value": 0
+      },
+      {
+         "Name": "Beryllium",
+         "Value": 0
+      },
+      {
+         "Name": "Chromium",
+         "Value": 0
+      },
+      {
+         "Name": "Cobalt",
+         "Value": 0
+      },
+      {
+         "Name": "Coking Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Copper",
+         "Value": 18846
+      },
+      {
+         "Name": "Diam. (Gem)",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Ind)",
+         "Value": 0
+      },
+      {
+         "Name": "Diatomite",
+         "Value": 0
+      },
+      {
+         "Name": "Feldspar",
+         "Value": 0
+      },
+      {
+         "Name": "Fluorspar",
+         "Value": 0
+      },
+      {
+         "Name": "Gold",
+         "Value": 6499
+      },
+      {
+         "Name": "Graphite",
+         "Value": 0
+      },
+      {
+         "Name": "Gypsum",
+         "Value": 70000
+      },
+      {
+         "Name": "Iron",
+         "Value": 8201700
+      },
+      {
+         "Name": "Kaolin",
+         "Value": 0
+      },
+      {
+         "Name": "Lead",
+         "Value": 0
+      },
+      {
+         "Name": "Lithium",
+         "Value": 0
+      },
+      {
+         "Name": "Magnesite",
+         "Value": 0
+      },
+      {
+         "Name": "Manganese",
+         "Value": 0
+      },
+      {
+         "Name": "Mercury",
+         "Value": 0
+      },
+      {
+         "Name": "Nat. Gas",
+         "Value": 0
+      },
+      {
+         "Name": "Nickel",
+         "Value": 0
+      },
+      {
+         "Name": "Niobium",
+         "Value": 0
+      },
+      {
+         "Name": "Palladium",
+         "Value": 0
+      },
+      {
+         "Name": "Perlite",
+         "Value": 0
+      },
+      {
+         "Name": "Petroleum",
+         "Value": 0
+      },
+      {
+         "Name": "Phosphates",
+         "Value": 0
+      },
+      {
+         "Name": "Platinum",
+         "Value": 0
+      },
+      {
+         "Name": "Rare Earths",
+         "Value": 0
+      },
+      {
+         "Name": "Rhodium",
+         "Value": 0
+      },
+      {
+         "Name": "Salt",
+         "Value": 0
+      },
+      {
+         "Name": "Silver",
+         "Value": 0
+      },
+      {
+         "Name": "Steam Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Sulfur",
+         "Value": 0
+      },
+      {
+         "Name": "Talc",
+         "Value": 0
+      },
+      {
+         "Name": "Tantalum",
+         "Value": 0
+      },
+      {
+         "Name": "Tin",
+         "Value": 0
+      },
+      {
+         "Name": "Titanium",
+         "Value": 0
+      },
+      {
+         "Name": "Tungsten",
+         "Value": 0
+      },
+      {
+         "Name": "Uranium",
+         "Value": 0
+      },
+      {
+         "Name": "Vanadium",
+         "Value": 0
+      },
+      {
+         "Name": "Vermiculite",
+         "Value": 0
+      },
+      {
+         "Name": "Zinc",
+         "Value": 0
+      },
+      {
+         "Name": "Zircon",
+         "Value": 0
+      }
+   ]},
+   {"Name":"Niger", "children": [
+      {
+         "Name": "Aluminium",
+         "Value": 0
+      },
+      {
+         "Name": "Arsenic",
+         "Value": 0
+      },
+      {
+         "Name": "Baryte",
+         "Value": 0
+      },
+      {
+         "Name": "Bauxite",
+         "Value": 0
+      },
+      {
+         "Name": "Bentonite",
+         "Value": 0
+      },
+      {
+         "Name": "Beryllium",
+         "Value": 0
+      },
+      {
+         "Name": "Chromium",
+         "Value": 0
+      },
+      {
+         "Name": "Cobalt",
+         "Value": 0
+      },
+      {
+         "Name": "Coking Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Copper",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Gem)",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Ind)",
+         "Value": 0
+      },
+      {
+         "Name": "Diatomite",
+         "Value": 0
+      },
+      {
+         "Name": "Feldspar",
+         "Value": 0
+      },
+      {
+         "Name": "Fluorspar",
+         "Value": 0
+      },
+      {
+         "Name": "Gold",
+         "Value": 4010
+      },
+      {
+         "Name": "Graphite",
+         "Value": 0
+      },
+      {
+         "Name": "Gypsum",
+         "Value": 0
+      },
+      {
+         "Name": "Iron",
+         "Value": 0
+      },
+      {
+         "Name": "Kaolin",
+         "Value": 0
+      },
+      {
+         "Name": "Lead",
+         "Value": 0
+      },
+      {
+         "Name": "Lithium",
+         "Value": 0
+      },
+      {
+         "Name": "Magnesite",
+         "Value": 0
+      },
+      {
+         "Name": "Manganese",
+         "Value": 0
+      },
+      {
+         "Name": "Mercury",
+         "Value": 0
+      },
+      {
+         "Name": "Nat. Gas",
+         "Value": 0
+      },
+      {
+         "Name": "Nickel",
+         "Value": 0
+      },
+      {
+         "Name": "Niobium",
+         "Value": 0
+      },
+      {
+         "Name": "Palladium",
+         "Value": 0
+      },
+      {
+         "Name": "Perlite",
+         "Value": 0
+      },
+      {
+         "Name": "Petroleum",
+         "Value": 873100
+      },
+      {
+         "Name": "Phosphates",
+         "Value": 0
+      },
+      {
+         "Name": "Platinum",
+         "Value": 0
+      },
+      {
+         "Name": "Rare Earths",
+         "Value": 0
+      },
+      {
+         "Name": "Rhodium",
+         "Value": 0
+      },
+      {
+         "Name": "Salt",
+         "Value": 0
+      },
+      {
+         "Name": "Silver",
+         "Value": 100
+      },
+      {
+         "Name": "Steam Coal",
+         "Value": 105760
+      },
+      {
+         "Name": "Sulfur",
+         "Value": 0
+      },
+      {
+         "Name": "Talc",
+         "Value": 0
+      },
+      {
+         "Name": "Tantalum",
+         "Value": 0
+      },
+      {
+         "Name": "Tin",
+         "Value": 0
+      },
+      {
+         "Name": "Titanium",
+         "Value": 0
+      },
+      {
+         "Name": "Tungsten",
+         "Value": 0
+      },
+      {
+         "Name": "Uranium",
+         "Value": 2691
+      },
+      {
+         "Name": "Vanadium",
+         "Value": 0
+      },
+      {
+         "Name": "Vermiculite",
+         "Value": 0
+      },
+      {
+         "Name": "Zinc",
+         "Value": 0
+      },
+      {
+         "Name": "Zircon",
+         "Value": 0
+      }
+   ]},
+   {"Name":"Nigeria", "children": [
+      {
+         "Name": "Aluminium",
+         "Value": 0
+      },
+      {
+         "Name": "Arsenic",
+         "Value": 0
+      },
+      {
+         "Name": "Baryte",
+         "Value": 460
+      },
+      {
+         "Name": "Bauxite",
+         "Value": 0
+      },
+      {
+         "Name": "Bentonite",
+         "Value": 0
+      },
+      {
+         "Name": "Beryllium",
+         "Value": 0
+      },
+      {
+         "Name": "Chromium",
+         "Value": 0
+      },
+      {
+         "Name": "Cobalt",
+         "Value": 0
+      },
+      {
+         "Name": "Coking Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Copper",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Gem)",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Ind)",
+         "Value": 0
+      },
+      {
+         "Name": "Diatomite",
+         "Value": 0
+      },
+      {
+         "Name": "Feldspar",
+         "Value": 43997
+      },
+      {
+         "Name": "Fluorspar",
+         "Value": 6275
+      },
+      {
+         "Name": "Gold",
+         "Value": 2000
+      },
+      {
+         "Name": "Graphite",
+         "Value": 0
+      },
+      {
+         "Name": "Gypsum",
+         "Value": 13401
+      },
+      {
+         "Name": "Iron",
+         "Value": 1300
+      },
+      {
+         "Name": "Kaolin",
+         "Value": 23530
+      },
+      {
+         "Name": "Lead",
+         "Value": 45500
+      },
+      {
+         "Name": "Lithium",
+         "Value": 20
+      },
+      {
+         "Name": "Magnesite",
+         "Value": 0
+      },
+      {
+         "Name": "Manganese",
+         "Value": 22380
+      },
+      {
+         "Name": "Mercury",
+         "Value": 0
+      },
+      {
+         "Name": "Nat. Gas",
+         "Value": 48570
+      },
+      {
+         "Name": "Nickel",
+         "Value": 0
+      },
+      {
+         "Name": "Niobium",
+         "Value": 140
+      },
+      {
+         "Name": "Palladium",
+         "Value": 0
+      },
+      {
+         "Name": "Perlite",
+         "Value": 0
+      },
+      {
+         "Name": "Petroleum",
+         "Value": 80639590
+      },
+      {
+         "Name": "Phosphates",
+         "Value": 0
+      },
+      {
+         "Name": "Platinum",
+         "Value": 0
+      },
+      {
+         "Name": "Rare Earths",
+         "Value": 0
+      },
+      {
+         "Name": "Rhodium",
+         "Value": 0
+      },
+      {
+         "Name": "Salt",
+         "Value": 0
+      },
+      {
+         "Name": "Silver",
+         "Value": 0
+      },
+      {
+         "Name": "Steam Coal",
+         "Value": 1444139
+      },
+      {
+         "Name": "Sulfur",
+         "Value": 0
+      },
+      {
+         "Name": "Talc",
+         "Value": 65061
+      },
+      {
+         "Name": "Tantalum",
+         "Value": 160
+      },
+      {
+         "Name": "Tin",
+         "Value": 6890
+      },
+      {
+         "Name": "Titanium",
+         "Value": 0
+      },
+      {
+         "Name": "Tungsten",
+         "Value": 24
+      },
+      {
+         "Name": "Uranium",
+         "Value": 0
+      },
+      {
+         "Name": "Vanadium",
+         "Value": 0
+      },
+      {
+         "Name": "Vermiculite",
+         "Value": 0
+      },
+      {
+         "Name": "Zinc",
+         "Value": 32220
+      },
+      {
+         "Name": "Zircon",
+         "Value": 3033
+      }
+   ]},
+   {"Name":"Papua New Guinea", "children": [
+      {
+         "Name": "Aluminium",
+         "Value": 0
+      },
+      {
+         "Name": "Arsenic",
+         "Value": 0
+      },
+      {
+         "Name": "Baryte",
+         "Value": 0
+      },
+      {
+         "Name": "Bauxite",
+         "Value": 0
+      },
+      {
+         "Name": "Bentonite",
+         "Value": 0
+      },
+      {
+         "Name": "Beryllium",
+         "Value": 0
+      },
+      {
+         "Name": "Chromium",
+         "Value": 43430
+      },
+      {
+         "Name": "Cobalt",
+         "Value": 2955
+      },
+      {
+         "Name": "Coking Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Copper",
+         "Value": 66531
+      },
+      {
+         "Name": "Diam. (Gem)",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Ind)",
+         "Value": 0
+      },
+      {
+         "Name": "Diatomite",
+         "Value": 0
+      },
+      {
+         "Name": "Feldspar",
+         "Value": 0
+      },
+      {
+         "Name": "Fluorspar",
+         "Value": 0
+      },
+      {
+         "Name": "Gold",
+         "Value": 39145
+      },
+      {
+         "Name": "Graphite",
+         "Value": 0
+      },
+      {
+         "Name": "Gypsum",
+         "Value": 0
+      },
+      {
+         "Name": "Iron",
+         "Value": 0
+      },
+      {
+         "Name": "Kaolin",
+         "Value": 0
+      },
+      {
+         "Name": "Lead",
+         "Value": 0
+      },
+      {
+         "Name": "Lithium",
+         "Value": 0
+      },
+      {
+         "Name": "Magnesite",
+         "Value": 0
+      },
+      {
+         "Name": "Manganese",
+         "Value": 0
+      },
+      {
+         "Name": "Mercury",
+         "Value": 0
+      },
+      {
+         "Name": "Nat. Gas",
+         "Value": 3400
+      },
+      {
+         "Name": "Nickel",
+         "Value": 31594
+      },
+      {
+         "Name": "Niobium",
+         "Value": 0
+      },
+      {
+         "Name": "Palladium",
+         "Value": 0
+      },
+      {
+         "Name": "Perlite",
+         "Value": 0
+      },
+      {
+         "Name": "Petroleum",
+         "Value": 1842600
+      },
+      {
+         "Name": "Phosphates",
+         "Value": 0
+      },
+      {
+         "Name": "Platinum",
+         "Value": 0
+      },
+      {
+         "Name": "Rare Earths",
+         "Value": 0
+      },
+      {
+         "Name": "Rhodium",
+         "Value": 0
+      },
+      {
+         "Name": "Salt",
+         "Value": 0
+      },
+      {
+         "Name": "Silver",
+         "Value": 90200
+      },
+      {
+         "Name": "Steam Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Sulfur",
+         "Value": 0
+      },
+      {
+         "Name": "Talc",
+         "Value": 0
+      },
+      {
+         "Name": "Tantalum",
+         "Value": 0
+      },
+      {
+         "Name": "Tin",
+         "Value": 0
+      },
+      {
+         "Name": "Titanium",
+         "Value": 0
+      },
+      {
+         "Name": "Tungsten",
+         "Value": 0
+      },
+      {
+         "Name": "Uranium",
+         "Value": 0
+      },
+      {
+         "Name": "Vanadium",
+         "Value": 0
+      },
+      {
+         "Name": "Vermiculite",
+         "Value": 0
+      },
+      {
+         "Name": "Zinc",
+         "Value": 0
+      },
+      {
+         "Name": "Zircon",
+         "Value": 0
+      }
+   ]},
+   {"Name":"Senegal", "children": [
+      {
+         "Name": "Aluminium",
+         "Value": 0
+      },
+      {
+         "Name": "Arsenic",
+         "Value": 0
+      },
+      {
+         "Name": "Baryte",
+         "Value": 0
+      },
+      {
+         "Name": "Bauxite",
+         "Value": 0
+      },
+      {
+         "Name": "Bentonite",
+         "Value": 0
+      },
+      {
+         "Name": "Beryllium",
+         "Value": 0
+      },
+      {
+         "Name": "Chromium",
+         "Value": 0
+      },
+      {
+         "Name": "Cobalt",
+         "Value": 0
+      },
+      {
+         "Name": "Coking Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Copper",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Gem)",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Ind)",
+         "Value": 0
+      },
+      {
+         "Name": "Diatomite",
+         "Value": 0
+      },
+      {
+         "Name": "Feldspar",
+         "Value": 0
+      },
+      {
+         "Name": "Fluorspar",
+         "Value": 0
+      },
+      {
+         "Name": "Gold",
+         "Value": 14678
+      },
+      {
+         "Name": "Graphite",
+         "Value": 0
+      },
+      {
+         "Name": "Gypsum",
+         "Value": 0
+      },
+      {
+         "Name": "Iron",
+         "Value": 0
+      },
+      {
+         "Name": "Kaolin",
+         "Value": 0
+      },
+      {
+         "Name": "Lead",
+         "Value": 0
+      },
+      {
+         "Name": "Lithium",
+         "Value": 0
+      },
+      {
+         "Name": "Magnesite",
+         "Value": 0
+      },
+      {
+         "Name": "Manganese",
+         "Value": 4040
+      },
+      {
+         "Name": "Mercury",
+         "Value": 0
+      },
+      {
+         "Name": "Nat. Gas",
+         "Value": 6
+      },
+      {
+         "Name": "Nickel",
+         "Value": 0
+      },
+      {
+         "Name": "Niobium",
+         "Value": 0
+      },
+      {
+         "Name": "Palladium",
+         "Value": 0
+      },
+      {
+         "Name": "Perlite",
+         "Value": 0
+      },
+      {
+         "Name": "Petroleum",
+         "Value": 20000
+      },
+      {
+         "Name": "Phosphates",
+         "Value": 792800
+      },
+      {
+         "Name": "Platinum",
+         "Value": 0
+      },
+      {
+         "Name": "Rare Earths",
+         "Value": 0
+      },
+      {
+         "Name": "Rhodium",
+         "Value": 280599
+      },
+      {
+         "Name": "Salt",
+         "Value": 1310
+      },
+      {
+         "Name": "Silver",
+         "Value": 0
+      },
+      {
+         "Name": "Steam Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Sulfur",
+         "Value": 0
+      },
+      {
+         "Name": "Talc",
+         "Value": 0
+      },
+      {
+         "Name": "Tantalum",
+         "Value": 0
+      },
+      {
+         "Name": "Tin",
+         "Value": 0
+      },
+      {
+         "Name": "Titanium",
+         "Value": 310310
+      },
+      {
+         "Name": "Tungsten",
+         "Value": 0
+      },
+      {
+         "Name": "Uranium",
+         "Value": 0
+      },
+      {
+         "Name": "Vanadium",
+         "Value": 0
+      },
+      {
+         "Name": "Vermiculite",
+         "Value": 0
+      },
+      {
+         "Name": "Zinc",
+         "Value": 0
+      },
+      {
+         "Name": "Zircon",
+         "Value": 90760
+      }
+   ]},
+   {"Name":"Sierra Leone", "children": [
+      {
+         "Name": "Aluminium",
+         "Value": 0
+      },
+      {
+         "Name": "Arsenic",
+         "Value": 0
+      },
+      {
+         "Name": "Baryte",
+         "Value": 0
+      },
+      {
+         "Name": "Bauxite",
+         "Value": 1396678
+      },
+      {
+         "Name": "Bentonite",
+         "Value": 0
+      },
+      {
+         "Name": "Beryllium",
+         "Value": 0
+      },
+      {
+         "Name": "Chromium",
+         "Value": 0
+      },
+      {
+         "Name": "Cobalt",
+         "Value": 0
+      },
+      {
+         "Name": "Coking Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Copper",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Gem)",
+         "Value": 541400
+      },
+      {
+         "Name": "Diam. (Ind)",
+         "Value": 297700
+      },
+      {
+         "Name": "Diatomite",
+         "Value": 0
+      },
+      {
+         "Name": "Feldspar",
+         "Value": 0
+      },
+      {
+         "Name": "Fluorspar",
+         "Value": 0
+      },
+      {
+         "Name": "Gold",
+         "Value": 149
+      },
+      {
+         "Name": "Graphite",
+         "Value": 0
+      },
+      {
+         "Name": "Gypsum",
+         "Value": 0
+      },
+      {
+         "Name": "Iron",
+         "Value": 950300
+      },
+      {
+         "Name": "Kaolin",
+         "Value": 0
+      },
+      {
+         "Name": "Lead",
+         "Value": 0
+      },
+      {
+         "Name": "Lithium",
+         "Value": 0
+      },
+      {
+         "Name": "Magnesite",
+         "Value": 0
+      },
+      {
+         "Name": "Manganese",
+         "Value": 0
+      },
+      {
+         "Name": "Mercury",
+         "Value": 0
+      },
+      {
+         "Name": "Nat. Gas",
+         "Value": 0
+      },
+      {
+         "Name": "Nickel",
+         "Value": 0
+      },
+      {
+         "Name": "Niobium",
+         "Value": 0
+      },
+      {
+         "Name": "Palladium",
+         "Value": 0
+      },
+      {
+         "Name": "Perlite",
+         "Value": 0
+      },
+      {
+         "Name": "Petroleum",
+         "Value": 0
+      },
+      {
+         "Name": "Phosphates",
+         "Value": 0
+      },
+      {
+         "Name": "Platinum",
+         "Value": 0
+      },
+      {
+         "Name": "Rare Earths",
+         "Value": 0
+      },
+      {
+         "Name": "Rhodium",
+         "Value": 0
+      },
+      {
+         "Name": "Salt",
+         "Value": 0
+      },
+      {
+         "Name": "Silver",
+         "Value": 0
+      },
+      {
+         "Name": "Steam Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Sulfur",
+         "Value": 0
+      },
+      {
+         "Name": "Talc",
+         "Value": 0
+      },
+      {
+         "Name": "Tantalum",
+         "Value": 36
+      },
+      {
+         "Name": "Tin",
+         "Value": 0
+      },
+      {
+         "Name": "Titanium",
+         "Value": 135400
+      },
+      {
+         "Name": "Tungsten",
+         "Value": 0
+      },
+      {
+         "Name": "Uranium",
+         "Value": 0
+      },
+      {
+         "Name": "Vanadium",
+         "Value": 0
+      },
+      {
+         "Name": "Vermiculite",
+         "Value": 0
+      },
+      {
+         "Name": "Zinc",
+         "Value": 0
+      },
+      {
+         "Name": "Zircon",
+         "Value": 4100
+      }
+   ]},
+   {"Name":"Togo", "children": [
+      {
+         "Name": "Aluminium",
+         "Value": 0
+      },
+      {
+         "Name": "Arsenic",
+         "Value": 0
+      },
+      {
+         "Name": "Baryte",
+         "Value": 0
+      },
+      {
+         "Name": "Bauxite",
+         "Value": 0
+      },
+      {
+         "Name": "Bentonite",
+         "Value": 0
+      },
+      {
+         "Name": "Beryllium",
+         "Value": 0
+      },
+      {
+         "Name": "Chromium",
+         "Value": 0
+      },
+      {
+         "Name": "Cobalt",
+         "Value": 0
+      },
+      {
+         "Name": "Coking Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Copper",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Gem)",
+         "Value": 0
+      },
+      {
+         "Name": "Diam. (Ind)",
+         "Value": 0
+      },
+      {
+         "Name": "Diatomite",
+         "Value": 0
+      },
+      {
+         "Name": "Feldspar",
+         "Value": 0
+      },
+      {
+         "Name": "Fluorspar",
+         "Value": 0
+      },
+      {
+         "Name": "Gold",
+         "Value": 3600
+      },
+      {
+         "Name": "Graphite",
+         "Value": 0
+      },
+      {
+         "Name": "Gypsum",
+         "Value": 0
+      },
+      {
+         "Name": "Iron",
+         "Value": 0
+      },
+      {
+         "Name": "Kaolin",
+         "Value": 0
+      },
+      {
+         "Name": "Lead",
+         "Value": 0
+      },
+      {
+         "Name": "Lithium",
+         "Value": 0
+      },
+      {
+         "Name": "Magnesite",
+         "Value": 0
+      },
+      {
+         "Name": "Manganese",
+         "Value": 0
+      },
+      {
+         "Name": "Mercury",
+         "Value": 0
+      },
+      {
+         "Name": "Nat. Gas",
+         "Value": 0
+      },
+      {
+         "Name": "Nickel",
+         "Value": 0
+      },
+      {
+         "Name": "Niobium",
+         "Value": 0
+      },
+      {
+         "Name": "Palladium",
+         "Value": 0
+      },
+      {
+         "Name": "Perlite",
+         "Value": 0
+      },
+      {
+         "Name": "Petroleum",
+         "Value": 0
+      },
+      {
+         "Name": "Phosphates",
+         "Value": 538860
+      },
+      {
+         "Name": "Platinum",
+         "Value": 0
+      },
+      {
+         "Name": "Rare Earths",
+         "Value": 0
+      },
+      {
+         "Name": "Rhodium",
+         "Value": 0
+      },
+      {
+         "Name": "Salt",
+         "Value": 0
+      },
+      {
+         "Name": "Silver",
+         "Value": 0
+      },
+      {
+         "Name": "Steam Coal",
+         "Value": 0
+      },
+      {
+         "Name": "Sulfur",
+         "Value": 0
+      },
+      {
+         "Name": "Talc",
+         "Value": 0
+      },
+      {
+         "Name": "Tantalum",
+         "Value": 0
+      },
+      {
+         "Name": "Tin",
+         "Value": 0
+      },
+      {
+         "Name": "Titanium",
+         "Value": 0
+      },
+      {
+         "Name": "Tungsten",
+         "Value": 0
+      },
+      {
+         "Name": "Uranium",
+         "Value": 0
+      },
+      {
+         "Name": "Vanadium",
+         "Value": 0
+      },
+      {
+         "Name": "Vermiculite",
+         "Value": 0
+      },
+      {
+         "Name": "Zinc",
+         "Value": 0
+      },
+      {
+         "Name": "Zircon",
+         "Value": 0
+       }
+    ]}
+ ]}
